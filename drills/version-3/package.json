@@ -1,0 +1,15 @@
+{
+  "name": "version-3",
+  "version": "1.0.0",
+  "description": "Telephone-3 Drill",
+  "main": "app.js",
+  "dependencies": {
+    "npm": "^6.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\" "
+  },
+  "author": "James Truitt",
+  "license": "ISC"
+}
